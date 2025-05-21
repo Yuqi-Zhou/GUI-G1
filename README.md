@@ -7,8 +7,8 @@ The model and dataset are currently under review and will be released soon. Than
 
 # GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
 
-<div style="margin-left: 5%;">
-<img src="./src/assets/workflow.png" width="600"/>
+<div style="width: 100%; margin: 0;">
+  <img src="./src/assets/workflow.png" style="width: 100%; display: block;" />
 </div>
 
 > This repository is based on [VLM-R1](https://github.com/omlab/VLM-R1), with several improvements and adaptations for our use case, especially on **Template**, **Reward Functions**, and **GRPO Objective**.
@@ -72,8 +72,8 @@ We thank the authors for their open-source contributions.
 If you find this project useful, welcome to cite us.
 ```bib
 @article{zhou2025guig1,
-  author       = {Zhou, Yuqi and Dai, Sunhao and Wang, Shuai and Zhou, Kaiwen and Jia, Qinglin and Xu, Jun},
   title        = {GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents},
+  author       = {Zhou, Yuqi and Dai, Sunhao and Wang, Shuai and Zhou, Kaiwen and Jia, Qinglin and Xu, Jun},
   howpublished = {\url{https://github.com/Yuqi-Zhou/GUI-R1}},
   year         = {2025}
 }
