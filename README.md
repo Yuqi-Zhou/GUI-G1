@@ -8,7 +8,7 @@ The model and dataset are currently under review and will be released soon. Than
 # GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
 
 <div style="margin-left: 5%;">
-<img src="./src/assets/framework.pdf" width="600"/>
+<img src="./src/assets/workflow.png" width="600"/>
 </div>
 
 > This repository is based on [VLM-R1](https://github.com/omlab/VLM-R1), with several improvements and adaptations for our use case, especially on **Template**, **Reward Functions**, and **GRPO Objective**.
