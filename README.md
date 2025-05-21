@@ -3,6 +3,7 @@
 The model and dataset are currently under review and will be released soon. Thank you for your patience.
 
 ## News
+- **[2025/5/22]** Our [**code**](https://github.com/Yuqi-Zhou/GUI-G1) is released.
 - **[2025/5/22]** Our [**paper**] is released.
 
 # GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
