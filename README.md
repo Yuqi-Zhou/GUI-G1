@@ -4,7 +4,6 @@ The model and dataset are currently under review and will be released soon. Than
 
 ## News
 - **[2025/5/22]** Our [**paper**] is released.
-=======
 
 # GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
 
@@ -57,8 +56,6 @@ bash src/open-r1-multimodal/run_scripts/run.sh
 | InfiGUI-R1-3B  |   87.5      |    35.7           |
 | **GUI-G1-3B** |    **90.3**    | **37.1**            |
 
-![image](./assets/iou_comparison.jpg)
-
 ---
 
 ## Acknowledgements
@@ -74,7 +71,7 @@ We thank the authors for their open-source contributions.
 ## Citation
 If you find this project useful, welcome to cite us.
 ```bib
-@misc{zhou2025guig1,
+@article{zhou2025guig1,
   author       = {Zhou, Yuqi and Dai, Sunhao and Wang, Shuai and Zhou, Kaiwen and Jia, Qinglin and Xu, Jun},
   title        = {GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents},
   howpublished = {\url{https://github.com/Yuqi-Zhou/GUI-R1}},
