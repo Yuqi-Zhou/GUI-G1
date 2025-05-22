@@ -75,7 +75,7 @@ If you find our code or work useful for your research, please cite our work:
 @article{zhou2025guig1,
   title        = {GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents},
   author       = {Zhou, Yuqi and Dai, Sunhao and Wang, Shuai and Zhou, Kaiwen and Jia, Qinglin and Xu, Jun},
-  journal      ={arXiv preprint arXiv:2505.15810},
+  journal      = {arXiv preprint arXiv:2505.15810},
   year         = {2025}
 }
 ```
