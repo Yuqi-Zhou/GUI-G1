@@ -1,10 +1,10 @@
 # GUI-G1
 
-The model and dataset are currently under review and will be released soon. Thank you for your patience.
+The model checkpoint and training datasets are under review due to company policies and will be released soon. Thank you for your patience.
 
-## News
+# News
 - **[2025/5/22]** Our [**code**](https://github.com/Yuqi-Zhou/GUI-G1) is released.
-- **[2025/5/22]** Our [**paper**] is released.
+- **[2025/5/22]** Our [**paper**](https://arxiv.org/abs/2505.15810) is released.
 
 # GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
 
@@ -14,14 +14,14 @@ The model and dataset are currently under review and will be released soon. Than
 
 > This repository is based on [VLM-R1](https://github.com/omlab/VLM-R1), with several improvements and adaptations for our use case, especially on **Template**, **Reward Functions**, and **GRPO Objective**.
 
-<font size=4><div align='center'> \[[🤗 Data(Ing...)](https://github.com/Yuqi-Zhou/GUI-G1)] \[[🤗 Checkpoint(Ing...)](https://github.com/Yuqi-Zhou/GUI-G1)] </div></font>
+<font size=4><div align='center'> \[[🤗 Data(Coming Soon)](https://github.com/Yuqi-Zhou/GUI-G1)] \[[🤗 Checkpoint(Coming Soon)](https://github.com/Yuqi-Zhou/GUI-G1)] </div></font>
 
 
 In this work, we build upon the original [VLM-R1](https://github.com/omlab/VLM-R1) frameworks. We introduce **GUI-G1**, a VLM fine-tuned for **GUI Grounding**.
 
 ---
 
-## 🔧 Major Modifications
+## 🔧 Major Modifications of GUI-G1
 
 * Introduced a **Fast Thinking Template** that requires no model reasoning, accelerating training and inference
 * Utilized diverse **reward functions (Hit, IoU, Box)** to prevent reward hacking and achieve multi-objective optimization
@@ -70,12 +70,12 @@ We thank the authors for their open-source contributions.
 ---
 
 ## Citation
-If you find this project useful, welcome to cite us.
+If you find our code or work useful for your research, please cite our work:
 ```bib
 @article{zhou2025guig1,
   title        = {GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents},
   author       = {Zhou, Yuqi and Dai, Sunhao and Wang, Shuai and Zhou, Kaiwen and Jia, Qinglin and Xu, Jun},
-  howpublished = {\url{https://github.com/Yuqi-Zhou/GUI-R1}},
+  journal      ={arXiv preprint arXiv:2505.15810},
   year         = {2025}
 }
 ```
