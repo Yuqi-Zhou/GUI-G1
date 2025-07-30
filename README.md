@@ -3,6 +3,7 @@
 The model checkpoint and training datasets are under review due to company policies and will be released soon. Thank you for your patience.
 
 # News
+- **[2025/5/22]** Our [**model (GUI-G1-3B-0.1K)**](https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-0.1K) is released. The model was trained on the [**UI-R1-3B-Train**](https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train) dataset, which contains only 101 grounding samples. We aligned the training settings with [**UI-R1-3B (v1)**](https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1) and achieved a new state-of-the-art performance.
 - **[2025/5/22]** Our [**code**](https://github.com/Yuqi-Zhou/GUI-G1) is released.
 - **[2025/5/22]** Our [**paper**](https://arxiv.org/abs/2505.15810) is released.
 
@@ -55,7 +56,7 @@ bash src/open-r1-multimodal/run_scripts/run.sh
 | Model         | ScreenSpot | ScreenSPot-Pro |
 | ------------- | --------------- | ------------------- |
 | InfiGUI-R1-3B  |   87.5      |    35.7           |
-| **GUI-G1-3B** |    **90.3**    | **37.1**            |
+| **GUI-G1-3B** |    **89.8**    | **43.9**           |
 
 ---
 
