@@ -3,7 +3,7 @@
 The model checkpoint and training datasets are under review due to company policies and will be released soon. Thank you for your patience.
 
 # News
-- **[2025/7/31]** Our model [**GUI-G1-3B-0.1K**](https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-0.1K) is released. The model is trained on the [**UI-R1-3B-Train**](https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train) dataset, which contains only 101 grounding samples. We align the training settings with [**UI-R1-3B (v1)**](https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1) and achieve a new state-of-the-art performance.
+- **[2025/7/31]** Our model checkpoint [**GUI-G1-3B-0.1K**](https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-0.1K) is released. The model is trained on the [**UI-R1-3B-Train**](https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train) dataset, which contains only 101 grounding samples. We align the training settings with [**UI-R1-3B (v1)**](https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1) and achieve a new state-of-the-art performance.
 - **[2025/5/22]** Our [**code**](https://github.com/Yuqi-Zhou/GUI-G1) is released.
 - **[2025/5/22]** Our [**paper**](https://arxiv.org/abs/2505.15810) is released.
 
@@ -15,8 +15,9 @@ The model checkpoint and training datasets are under review due to company polic
 
 > This repository is based on [VLM-R1](https://github.com/omlab/VLM-R1), with several improvements and adaptations for our use case, especially on **Template**, **Reward Functions**, and **GRPO Objective**.
 
+<!--
 <font size=4><div align='center'> \[[🤗 Data(Coming Soon)](https://github.com/Yuqi-Zhou/GUI-G1)] \[[🤗 Checkpoint(Coming Soon)](https://github.com/Yuqi-Zhou/GUI-G1)] </div></font>
-
+-->
 
 In this work, we build upon the original [VLM-R1](https://github.com/omlab/VLM-R1) frameworks. We introduce **GUI-G1**, a VLM fine-tuned for **GUI Grounding**.
 
