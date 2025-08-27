@@ -57,7 +57,7 @@ bash src/open-r1-multimodal/run_scripts/run.sh
 | Model         | ScreenSpot | ScreenSPot-Pro |
 | ------------- | --------------- | ------------------- |
 | InfiGUI-R1-3B  |   87.5      |    35.7           |
-| **GUI-G1-3B** |    **89.8**    | **43.9**           |
+| **GUI-G1-3B** |    **90.3**    | **37.1**           |
 
 ---
 
