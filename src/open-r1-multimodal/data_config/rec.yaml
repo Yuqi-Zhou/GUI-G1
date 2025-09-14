@@ -1,2 +1,2 @@
 datasets:
-    - json_path: # JSON Path
+    - json_path: data/GUI-R1-3K.json
