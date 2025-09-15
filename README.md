@@ -3,6 +3,7 @@
 The model checkpoint and training datasets are under review due to company policies and will be released soon. Thank you for your patience.
 
 # News
+- **[2025/9/16]** Our model [**GUI-G1-3B-v1**](https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1) in our paper is released.
 - **[2025/5/22]** Our [**code**](https://github.com/Yuqi-Zhou/GUI-G1) is released.
 - **[2025/5/22]** Our [**paper**](https://arxiv.org/abs/2505.15810) is released.
 
